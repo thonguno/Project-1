@@ -1,2 +1,2 @@
 # Project-1
-This is a TesT Project
+This is a Test Project
